@@ -66,6 +66,22 @@
   Understandability, Completeness, Conciseness, Portability, Consistency, Maintainability, Testability, Usability, 
 
   Reliability, Efficiency, Security
+  
+
+  
+
+##Rate For Students
+
+- 张亚华    (13126173)   A
+
+- 赵光伟    (13126175)   A
+
+- 臧凯源    (13126167)   A
+
+- 于铠瑞    (13126164)   A
+
+- 孙百仪    (13126128)   A
+
 
 
 
