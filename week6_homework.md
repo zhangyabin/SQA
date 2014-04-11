@@ -4,7 +4,8 @@
 
 - Software testing is any activity aimed at evaluating an attribute or capability of a program or system and determining
 
-  that it meets its required results. [Hetzel88] Although crucial to software quality and widely deployed by programmers    
+  that it meets its required results. [Hetzel88] Although crucial to software quality and widely deployed by programmers
+  
   and testers, software testing still remains an art, due to limited understanding of the principles of software. 
 
 - The difficulty in software testing stems from the complexity of software: we can not completely test a program with
