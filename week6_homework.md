@@ -1,4 +1,4 @@
-#Testing VS CMMI
+#Testing VS CMMI-QA
 
 ## Testing of Software
 
@@ -19,4 +19,4 @@
   two major areas of testing. Software testing is a trade-off between budget, time and quality. 
 
 
-## CMMI(Capability Maturity Model Integration) 
+## CMMI-QA
