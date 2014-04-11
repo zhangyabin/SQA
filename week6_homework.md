@@ -40,11 +40,11 @@ it should support whole software development lifecycle, meaning:
   
   including coordination of fixing them.
 
-- Change management, supported by verification how planned changes can influence the quality of created solution and 
+- Change management, supported by verification how planned changes can influence the quality of created solution and
   
   eventual change of test plan.
 
-- Closing project, supported by realization number of tests focused on complex verification of overall quality of  
+- Closing project, supported by realization number of tests focused on complex verification of overall quality of
   
   created solution.
 
