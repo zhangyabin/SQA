@@ -1,6 +1,4 @@
-#The CFGs constructed in this way are white-box testing models because product implementation informationis used, as 
-
-follows:
+The CFG constructed in this way are white-box testing models because product implementation informationis used,as follows:
 
 1.Processing nodes typically correspond to assignments, function calls, or procedurecalls.
 
