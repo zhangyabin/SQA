@@ -100,7 +100,7 @@ Testing plan is very important, make sure we create a executable test plan which
     
     How many bugs hand down?
     
-    Is it pass the test?
+    Does it pass the test?
     
     Can it release?
     
