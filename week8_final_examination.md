@@ -98,6 +98,8 @@ Testing plan is very important, make sure we create a executable test plan which
 
     Finally, we should collect and analyze measurement and determine the software of diandian's quality is ok or not.
     
+    Does it implement the software of diandian's requirement?
+    
     How many bugs hand down?
     
     Does it pass the test?
