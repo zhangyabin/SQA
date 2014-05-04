@@ -1,4 +1,4 @@
-##Final Examination
+##Final Examination (Create by 张亚宾 - 13126172)
 
 In order to  ensure the quality of the software system of diandian, we must make a plan and manage the testing of software.
 
