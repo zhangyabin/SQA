@@ -44,7 +44,7 @@ Testing plan is very important, make sure we create a executable test plan which
  
 (14) Plan and analysis necessary review test readiness
 
-###Test design and development
+###2. Test design and development
 
 (1) Determining the test techniques and strategies
 
@@ -58,7 +58,7 @@ Testing plan is very important, make sure we create a executable test plan which
 
 (6) Build automatic test script library
 
-###Test implementation and review
+###3. Test implementation and review
 
 (1) Set up development environment and script
 
