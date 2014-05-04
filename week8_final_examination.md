@@ -16,32 +16,34 @@ Step5 : Deal with test result and create test report(result -> test report)
 
 Testing plan is very important, make sure we create a executable test plan which includes as follow:
 
-- Make document of test requirement for diandian, define what to test
+(1) Make document of test requirement for diandian, define what to test
 
-- Define constraint conditions for software of diandian
+(2) Define constraint conditions for software of diandian
 
-- Establish the test target and objective of diandian
+(3) Establish the test target and objective of diandian
 
-- Establish the test strategy
+(4) Establish the test strategy
 
-- Start early testing activities
+(5) Start early testing activities
 
-- Determining the porject deliverable product
+(6) Determining the porject deliverable product
 
-- Determining the critical success function of diandian
+(7) Determining the critical success function of diandian
 
-- Risk assessment
+(8) Risk assessment
 
-- Determining the test schedule
+(9) Determining the test schedule
 
-- Setting up test data requirements document
+(10) Setting up test data requirements document
 
-- Define report requirements
+(11) Define report requirements
 
-- Define team tasks and responsibilities
+(12) Define team tasks and responsibilities
  
-- Create test plan document
+(13) Create test plan document
  
-- Plan and analysis necessary review test readiness
+(14) Plan and analysis necessary review test readiness
+
+
 
 
