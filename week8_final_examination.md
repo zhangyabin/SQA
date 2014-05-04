@@ -1,4 +1,4 @@
-#Final Examination
+##Final Examination
 
 In order to  ensure the quality of the software system of diandian, we must make a plan and manage the testing of software.
 
@@ -44,6 +44,30 @@ Testing plan is very important, make sure we create a executable test plan which
  
 (14) Plan and analysis necessary review test readiness
 
+###Test design and development
 
+(1) Determining the test techniques and strategies
+
+(2) Prepare and build test program design standard
+
+(3) Determining the list and level of test programs and test script
+
+(4) Distribute test programs and scripts to the test group members
+
+(5) Design input and expected output of test programs and scripts
+
+(6) Build automatic test script library
+
+###Test implementation and review
+
+(1) Set up development environment and script
+
+(2) Perform testing activities in different stages
+
+(3) Analysis bug and compile the problems report and track defect
+
+(4) Summary data, prepare the test report
+
+(5) Collect and analyze measurement
 
 
